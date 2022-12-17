@@ -1,1 +1,1 @@
-This is a text file to test GIT
+This is a text file to test GIT with changes

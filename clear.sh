@@ -1,2 +1,2 @@
 clear
-echo "This a fresh page"
+echo "This a very fresh page"
